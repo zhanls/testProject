@@ -2,5 +2,12 @@
 	"name": "npmdesc",
 	"version": "0.0.1",
 	"main": "npmdesc.js",
-	"author": "zls"
+	"author": "zls",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/zhanls/testProject"
+	},
+	"keywords": [
+		"npmdesc"
+	]
 }
